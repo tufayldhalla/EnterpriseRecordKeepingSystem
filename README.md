@@ -9,11 +9,11 @@ Requirements:
 How to run:
 1. Download the zipped folder and unzip the contents.
 2. Run the following Makefiles by entering:
-	$ make -f Makefile_Administrator
-	$ make -f Makefile_RecordKeeper
+	- $ make -f Makefile_Administrator
+	- $ make -f Makefile_RecordKeeper
 3. Then finally to run the program use the following the command:
-	$ ./administrator
-	$ ./recordKeeper
+	- $ ./administrator
+	- $ ./recordKeeper
 4. Enjoy
 
 # Authors:
