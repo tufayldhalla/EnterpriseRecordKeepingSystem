@@ -1,0 +1,6 @@
+administrator: Administrator.o GUI.o 
+	gcc -o administrator Administrator.o GUI.o 
+
+
+Administrator.o: Administrator.c GUI.h
+	gcc -c Administrator.c
