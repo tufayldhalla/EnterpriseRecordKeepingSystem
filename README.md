@@ -15,7 +15,6 @@ How to run:
 	$ ./administrator
 	$ ./recordKeeper
 - Enjoy
-![image](https://user-images.githubusercontent.com/43677998/116346075-7d6bc280-a7b7-11eb-8e7b-3749cd85457f.png)
 
 # Authors:
 1. Tufayl Dhalla
