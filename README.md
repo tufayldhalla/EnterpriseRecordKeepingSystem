@@ -7,15 +7,15 @@ Requirements:
 
 
 How to run:
-- Download the zipped folder and unzip the contents.
-- Run the following Makefiles by entering:
+1. Download the zipped folder and unzip the contents.
+2. Run the following Makefiles by entering:
 	$ make -f Makefile_Administrator
 	$ make -f Makefile_RecordKeeper
-- Then finally to run the program use the following the command:
+3. Then finally to run the program use the following the command:
 	$ ./administrator
 	$ ./recordKeeper
-- Enjoy
+4. Enjoy
 
 # Authors:
-1. Tufayl Dhalla
-2. Sahil Sharma
+- Tufayl Dhalla
+- Sahil Sharma
